@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <arpa/inet.h>
-#include <rdma/rdma cma.h>
+#include <rdma/rdma_cma.h>
 enum   {
         RESOLVE_TIMEOUT_MS         = 5000, 
 }; 

@@ -17,7 +17,7 @@
 #include <netdb.h>
 #include <arpa/inet.h>
 
-#include <rdma/rdma cma.h>
+#include <rdma/rdma_cma.h>
 enum   { 
         RESOLVE TIMEOUT MS        = 5000, 
 }; 
